@@ -1,2 +1,2 @@
 # repo1
-Mi primer repositorio
+Mi primer repositorio pra curso de desarrollo
